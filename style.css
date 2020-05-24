@@ -42,3 +42,8 @@ footer{
   color: snow;
   font-family: 'sofia';
 }
+div.scores{
+  width: 100%;
+  position:relative;
+  margin:0px;
+}
